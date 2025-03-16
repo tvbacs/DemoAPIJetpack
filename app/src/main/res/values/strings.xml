@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoGetAPI</string>
+    <string name="title_activity_post_list_screen">PostListScreen</string>
+</resources>
